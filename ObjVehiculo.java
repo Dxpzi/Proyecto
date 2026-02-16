@@ -16,7 +16,7 @@ public ObjVehiculo(String marca, String cilindraje, Double pagoAnterior, Double 
     Cilindraje = cilindraje;
     PagoAnterior = pagoAnterior;
     PagoActual = pagoActual;
-    NumeroCelda = numeroCelda;
+    NumeroCelda = numeroCelda; 
 }
 
 public String getMarca() {
